@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alya Diva Sianturi</h1>
 <h3 align="center">An informatic student with AI major</h3>
 
-- 🔭 I’m currently working on **Regatta Property Website**
+- 🔭 I’m currently doing my first intern in **Regatta Property Website**
 
 - 🌱 I’m currently learning **Artificial Intelligence, Develop Website, Front End, Back End and still continue**
 
